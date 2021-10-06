@@ -1,2 +1,2 @@
-# Galaxy
-A open-source roblox scripting utility user interface using WRD API
+# Galaxy aka Planer
+A open-source roblox scripting utility user interface
