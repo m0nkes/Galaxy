@@ -1,0 +1,16 @@
+C:\Users\Raphael\source\repos\Planet\Planet\bin\Debug\Planet.exe.config
+C:\Users\Raphael\source\repos\Planet\Planet\bin\Debug\Planet.exe
+C:\Users\Raphael\source\repos\Planet\Planet\bin\Debug\Planet.pdb
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\MainWindow.g.cs
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\App.g.cs
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet_MarkupCompile.cache
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet_MarkupCompile.lref
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\App.baml
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\MainWindow.baml
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.g.resources
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.Properties.Resources.resources
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.csproj.GenerateResource.cache
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.exe
+C:\Users\Raphael\source\repos\Planet\Planet\obj\Debug\Planet.pdb
